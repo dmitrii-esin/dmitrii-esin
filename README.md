@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**sunndeath/sunndeath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dmitrii-esin/dmitrii-esin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sunndeath&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dmitrii-esin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sunndeath&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrii-esin&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

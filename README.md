@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrii-esin&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![dmitrii's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sunndeath)](https://github.com/KnlnKS/leetcode-stats)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sunndeath?theme=dark)](https://leetcode.com/sunndeath)
 
 
 
